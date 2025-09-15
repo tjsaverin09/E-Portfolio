@@ -262,6 +262,7 @@ nav {
     transform: rotate(0);
   }
 }
+
 /* TECH - STACK */
 
 .language__img {
@@ -423,6 +424,8 @@ footer {
 .footer__logo--img {
   width: 70px;
   height: 70px;
+  filter: invert(100%);
+  border-radius: 10px;
 }
 
 .footer__social--link,
